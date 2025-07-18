@@ -256,6 +256,144 @@ Slide
     }
 
 
+Slide
+    {
+        anchors.fill: parent
+        anchors.verticalCenterOffset: 0
+
+        Image
+        {
+            id: background14
+            source: "slide14.png"
+            width: parent.width; height: parent.height
+            horizontalAlignment: Image.AlignCenter
+            verticalAlignment: Image.AlignTop
+            fillMode: Image.Stretch
+            anchors.fill: parent
+        }
+    }
+
+Slide
+    {
+        anchors.fill: parent
+        anchors.verticalCenterOffset: 0
+
+        Image
+        {
+            id: background15
+            source: "slide15.png"
+            width: parent.width; height: parent.height
+            horizontalAlignment: Image.AlignCenter
+            verticalAlignment: Image.AlignTop
+            fillMode: Image.Stretch
+            anchors.fill: parent
+        }
+    }
+
+Slide
+    {
+        anchors.fill: parent
+        anchors.verticalCenterOffset: 0
+
+        Image
+        {
+            id: background16
+            source: "slide16.png"
+            width: parent.width; height: parent.height
+            horizontalAlignment: Image.AlignCenter
+            verticalAlignment: Image.AlignTop
+            fillMode: Image.Stretch
+            anchors.fill: parent
+        }
+    }
+
+Slide
+    {
+        anchors.fill: parent
+        anchors.verticalCenterOffset: 0
+
+        Image
+        {
+            id: background17
+            source: "slide17.png"
+            width: parent.width; height: parent.height
+            horizontalAlignment: Image.AlignCenter
+            verticalAlignment: Image.AlignTop
+            fillMode: Image.Stretch
+            anchors.fill: parent
+        }
+    }
+
+Slide
+    {
+        anchors.fill: parent
+        anchors.verticalCenterOffset: 0
+
+        Image
+        {
+            id: background18
+            source: "slide18.png"
+            width: parent.width; height: parent.height
+            horizontalAlignment: Image.AlignCenter
+            verticalAlignment: Image.AlignTop
+            fillMode: Image.Stretch
+            anchors.fill: parent
+        }
+    }
+    
+    
+    Slide
+    {
+        anchors.fill: parent
+        anchors.verticalCenterOffset: 0
+
+        Image
+        {
+            id: background19
+            source: "slide19.png"
+            width: parent.width; height: parent.height
+            horizontalAlignment: Image.AlignCenter
+            verticalAlignment: Image.AlignTop
+            fillMode: Image.Stretch
+            anchors.fill: parent
+        }
+    }
+    
+    
+    Slide
+    {
+        anchors.fill: parent
+        anchors.verticalCenterOffset: 0
+
+        Image
+        {
+            id: background20
+            source: "slide20.png"
+            width: parent.width; height: parent.height
+            horizontalAlignment: Image.AlignCenter
+            verticalAlignment: Image.AlignTop
+            fillMode: Image.Stretch
+            anchors.fill: parent
+        }
+    }
+    
+    
+    Slide
+    {
+        anchors.fill: parent
+        anchors.verticalCenterOffset: 0
+
+        Image
+        {
+            id: background21
+            source: "slide21.png"
+            width: parent.width; height: parent.height
+            horizontalAlignment: Image.AlignCenter
+            verticalAlignment: Image.AlignTop
+            fillMode: Image.Stretch
+            anchors.fill: parent
+        }
+    }
 
 
     // When this slideshow is loaded as a V1 slideshow, only
